@@ -12,4 +12,7 @@ chmod u+x build.sh
 
 # run
 docker run hw1_valyavka
+```
 
+### result pic
+![result](hw1/images/result.png)
